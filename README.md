@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how to code
 - 📫 How to reach me on sixthjuly0607(insta) 
-- ⚡ Fun fact: i'm dumb ,but i want to know how to code:)
+- ⚡ Fun fact: i'm :) ,but i want to know how to code:)
 
 <!---
 YourNuthishere/YourNuthishere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
