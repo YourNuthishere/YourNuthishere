@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @YourNuthishere
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning how to code
-- 📫 How to reach me on ,email(nuthishere11@gmail.com)
-<!---
+- 👀 I’m interested SOC project 
+- 🌱 I’m currently learning how to build the soc environment to simulate real attack detection and practice security control 
+- 📫 HI would love to team up and collaborate on SOC project or Networking project , I love to discuss on the security control and networking configuration , DM me through nuthishere@gmail.com<!---
 YourNuthishere/YourNuthishere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
